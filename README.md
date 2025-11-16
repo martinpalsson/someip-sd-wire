@@ -26,7 +26,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-someip-sd-wire = "0.1.0"
+someip-sd-wire = "0.1.1"
 ```
 
 ## Examples

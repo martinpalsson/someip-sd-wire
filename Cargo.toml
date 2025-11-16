@@ -1,11 +1,11 @@
 [package]
 name = "someip-sd-wire"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 authors = ["Martin Pålsson <martin@poleshift.se>"]
 license = "MIT OR Apache-2.0"
 description = "A no_std SOME/IP-SD wire protocol parser and serializer with zero-allocation design"
-repository = "https://github.com/martinpalsson/someip-wire"
+repository = "https://github.com/martinpalsson/someip-sd-wire"
 keywords = ["someip", "automotive", "protocol", "parser", "embedded"]
 categories = ["embedded", "network-programming", "no-std", "parser-implementations", "automotive"]
 readme = "README.md"
